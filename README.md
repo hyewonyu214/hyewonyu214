@@ -31,6 +31,11 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+---
+
+### 🔥 My Stats:
+[![Moopower's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewonyu214)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonyu214"/>
 </div>
